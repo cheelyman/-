@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/busi/busi.iml" filepath="$PROJECT_DIR$/busi/busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sso-cas/cas-login/cas-login.iml" filepath="$PROJECT_DIR$/../sso-cas/cas-login/cas-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sso-cas/cas-website/cas-website.iml" filepath="$PROJECT_DIR$/../sso-cas/cas-website/cas-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sso-cas/cas-website2/cas-website2.iml" filepath="$PROJECT_DIR$/../sso-cas/cas-website2/cas-website2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sessionA/sessionA.iml" filepath="$PROJECT_DIR$/sessionA/sessionA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sessionB/sessionB.iml" filepath="$PROJECT_DIR$/sessionB/sessionB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_support/session_support.iml" filepath="$PROJECT_DIR$/session_support/session_support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sso-cas/sso-cas.iml" filepath="$PROJECT_DIR$/../sso-cas/sso-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-session.iml" filepath="$PROJECT_DIR$/sso-session.iml" />
+    </modules>
+  </component>
+</project>
